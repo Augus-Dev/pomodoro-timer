@@ -1,6 +1,6 @@
 # Pomodoro Timer
 A Pomodoro timer web application with customizable work/break cycles and progress tracking.
-**[View Project](https://augus-dev.github.io/pomodoro-app/)**
+**[View Project](https://augus-dev.github.io/pomodoro-timer/)**
 
 ## Features
 - Adjustable focus, break, and long break durations
